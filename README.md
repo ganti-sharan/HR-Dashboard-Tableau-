@@ -19,10 +19,10 @@ This **Human Resources Dashboard** provides an interactive, data-driven overview
 ## 📊 Visuals  
 
 ### 🔍 **Summary View**  
-<HR_Summary.png>  
+![HR Dashboard Summary](./HR_Summary.png)
 
 ### 🛠️ **Details View**  
-<HR_Details.png>  
+![HR Dashboard Details](./HR_Details.png)
 
 ---
 
